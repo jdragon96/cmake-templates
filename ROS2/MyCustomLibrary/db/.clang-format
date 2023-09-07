@@ -1,0 +1,18 @@
+BasedOnStyle: Google
+ColumnLimit: 0
+
+UseTab: Always
+IndentWidth: 2
+TabWidth: 2
+
+
+AlignConsecutiveMacros:
+    Enabled: true
+    AcrossEmptyLines: true
+    AcrossComments: true
+
+NamespaceIndentation: None
+
+IndentAccessModifiers: true
+
+ShortNamespaceLines: 1
