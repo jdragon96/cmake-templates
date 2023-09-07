@@ -18,6 +18,6 @@ class SubDocument {
 };
 
 }	 // namespace Model
-}	 // namespace RobotDB
+}	 // namespace DB
 
 #endif

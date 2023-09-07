@@ -28,7 +28,7 @@ int main() {
     return 0;
   }
 
-  using namespace RobotDB::Model;
+  using namespace DB::Model;
   Student s1;
   s1.Name = "철수";
   s1.Address = "서울특별시";

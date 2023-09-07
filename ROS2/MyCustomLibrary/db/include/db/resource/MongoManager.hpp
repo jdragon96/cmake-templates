@@ -1,5 +1,5 @@
-#ifndef ROBOTDB_RESOURCE_MONGOMANAGER_H
-#define ROBOTDB_RESOURCE_MONGOMANAGER_H
+#ifndef DB_RESOURCE_MONGOMANAGER_H
+#define DB_RESOURCE_MONGOMANAGER_H
 
 #include <iostream>
 #include <map>
@@ -129,6 +129,6 @@ class MongoManager {
 	private:
 };
 }	 // namespace Resource
-}	 // namespace RobotDB
+}	 // namespace DB
 
 #endif

@@ -25,6 +25,6 @@ class Document {
 };
 
 }	 // namespace Model
-}	 // namespace RobotDB
+}	 // namespace DB
 
 #endif
