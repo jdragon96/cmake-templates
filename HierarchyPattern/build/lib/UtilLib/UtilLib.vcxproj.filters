@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\USER\Desktop\Projects\my_git\cmake-templates\HierarchyPattern\lib\UtilLib\src\string_utils\string_util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\Desktop\Projects\my_git\cmake-templates\HierarchyPattern\lib\UtilLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B103B634-9151-35C6-BEDF-B70148274CF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

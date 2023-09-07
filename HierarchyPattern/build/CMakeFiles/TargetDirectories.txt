@@ -1,0 +1,5 @@
+C:/Users/USER/Desktop/Projects/my_git/cmake-templates/HierarchyPattern/build/CMakeFiles/HierarchyPattern.dir
+C:/Users/USER/Desktop/Projects/my_git/cmake-templates/HierarchyPattern/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/USER/Desktop/Projects/my_git/cmake-templates/HierarchyPattern/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/USER/Desktop/Projects/my_git/cmake-templates/HierarchyPattern/build/lib/UtilLib/CMakeFiles/UtilLib.dir
+C:/Users/USER/Desktop/Projects/my_git/cmake-templates/HierarchyPattern/build/lib/UtilLib/CMakeFiles/ALL_BUILD.dir
